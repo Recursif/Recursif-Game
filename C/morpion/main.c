@@ -27,11 +27,11 @@ void ft_print_grid(int **plays) {
 }
 
 int  tictactoe(void) {
-
+    int   joueur = 0;
     int  **plays = {{0,0,0},{0,0,0},{0,0,0}};
     printf("Bienvenue dans le tictactoe!!");
     while (game) {
-      
+        play()
     }
 
 
