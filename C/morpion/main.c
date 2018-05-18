@@ -26,12 +26,48 @@ void ft_print_grid(int **plays) {
     }
 }
 
+int is_in_str(char c, char *s) {
+  int i;
+
+  i = 0;
+  while(s[i]) {
+    if (s[i] == c)
+      return (1);
+    i++;
+  }
+  return (0);
+}
+
+int   **play(int j) {
+  char col;
+  char row;
+  int res;
+
+  col = '0';
+  while (!(is_in_str(col, "ABC")) {
+    printf("Entrez une column: ");
+    res = scanf("%c", &col);
+  }
+
+  row = 'A';
+  while (!(is_in_str(row, "012")) {
+    printf("Entrez une column: ");
+    row = scanf("%c", &row);
+  }
+
+}
+
 int  tictactoe(void) {
     int   joueur = 0;
+    int   game = 1;
     int  **plays = {{0,0,0},{0,0,0},{0,0,0}};
     printf("Bienvenue dans le tictactoe!!");
     while (game) {
-        play()
+        plays = play(joueur);
+
+
+
+        if (win(plays))
     }
 
 
