@@ -1,15 +1,15 @@
   
 # Recursif Game
 
-Recursif game est un jeu qui visent à driver les potes afin de créer ensembles de jeux de complexité variés dans différents langages.
+Recursif game est un jeu qui vise à driver les potes afin de créer ensembles de jeux de complexité variés dans différents langages.
 
 
 ## Les règles
 
   Pour le moment, l'idée est de tenir à jour un tableau de
-jeux à crée afin d'avoir une liste de challenges pour les potos.
+jeux à crée afin d'avoir une liste des challenges pour les potos.
 
-Ce tableau est disponible dans ce repo et peut être modifier par chaque joueur.
+Ce tableau est disponible dans ce repo et peut être modifié par chaques joueurs.
 
 Chaqun peut alors s'inscrire sur une case du tableau
 avec la ligne qui correspond au jeu en question
@@ -34,7 +34,7 @@ Les joueurs sont en compétition sur plusieurs aspects qui réprésente chaqun u
 ## Contribution
 
 Pour que le code soit valide
-le joueur devrat rendre une version nature
+le joueur devra rendre une version nature
 et un version commentée de son code
 
 
