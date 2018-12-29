@@ -18,7 +18,7 @@ et la colonne qui correspond au langage dans lequel le code sera rendu.
 Un joueur pourra proposer sa propre version du jeu dans le langage de son choix.
 
 
-## Aspect de Compétion
+## Aspect de Compétition
 
 Les joueurs sont en compétition sur plusieurs aspects qui réprésente chaqun un challenge différent:
 
